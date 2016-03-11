@@ -42,3 +42,7 @@ how_to_use
 ----
 * 메뉴 가장 왼쪽의 `@` 버튼을 클릭하면 json으로 출력이 가능합니다.<br>
 ![json](img/json_output.PNG)
+
+데모
+----
+![demo](https://raw.githubusercontent.com/pjc0247/MagicShow/master/img/switch.gif)
