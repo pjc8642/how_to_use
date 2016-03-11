@@ -13,10 +13,10 @@ how_to_use
 ----
 * 제어판의 메뉴 화면에서는 각각의 아이템을 클릭할 수 있습니다.
 * 아이템을 클릭하면 아래에 세부적인 제어 메뉴가 표시됩니다.
-![ui](ui_menu.png)
+![ui](img/ui_menu.PNG)
 
 
 결과물 출력하기
 ----
 * 메뉴 가장 왼쪽의 `@` 버튼을 클릭하면 json으로 출력이 가능합니다.
-![json](img/json_output.png)
+![json](img/json_output.PNG)
